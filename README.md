@@ -16,7 +16,7 @@ In the `dependencies:` section of your `pubspec.yaml`, add the following line:
 
 ```yaml
 dependencies:
-  initials_avatar_builder: ^0.0.1
+  initials_avatar_builder: ^0.0.3
 ```
 
 Then import the package in your Dart code:
@@ -50,7 +50,7 @@ Use a beautiful custom gradient instead of a solid color.
 
 ```dart
 InitialsAvatar(
-  name: 'Developer',
+  name: 'BalochCodes',
   radius: 50,
   backgroundGradient: LinearGradient(
     colors: [Colors.purple, Colors.deepOrange],

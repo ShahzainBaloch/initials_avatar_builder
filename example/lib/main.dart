@@ -41,7 +41,7 @@ class MyApp extends StatelessWidget {
               SizedBox(height: 10),
               // Custom size aur backgroundColor ke sath
               InitialsAvatar(
-                name: 'Farooq Ahmad',
+                name: 'Shahzain Baloch',
                 radius: 40,
                 backgroundColor: Colors.black,
               ),
@@ -51,7 +51,7 @@ class MyApp extends StatelessWidget {
               Text('Custom Gradient:', style: TextStyle(fontWeight: FontWeight.bold)),
               SizedBox(height: 10),
               InitialsAvatar(
-                name: 'Developer',
+                name: 'BalochCodes',
                 radius: 50,
                 backgroundGradient: LinearGradient(
                   colors: [Colors.purple, Colors.deepOrange],
@@ -59,7 +59,16 @@ class MyApp extends StatelessWidget {
                   end: Alignment.bottomRight,
                 ),
               ),
-            ],
+
+              SizedBox(height: 30),
+              
+              Text('Single Name:', style: TextStyle(fontWeight: FontWeight.bold)),
+              SizedBox(height: 10),
+              // Sirf ek naam ke sath
+              InitialsAvatar(
+                name: 'Shahzain',
+                radius: 30,
+              ),
           ),
         ),
       ),

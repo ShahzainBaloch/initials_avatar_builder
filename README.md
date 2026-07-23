@@ -39,7 +39,7 @@ Override the background color and radius.
 
 ```dart
 InitialsAvatar(
-  name: 'Farooq Ahmad',
+  name: 'Shahzain Baloch',
   radius: 40,
   backgroundColor: Colors.black,
 ),
@@ -65,7 +65,7 @@ Automatically centers the single initial and scales the font size.
 
 ```dart
 InitialsAvatar(
-  name: 'Amanullah',
+  name: 'Shahzain',
   radius: 30,
 ),
 ```

@@ -70,5 +70,11 @@ InitialsAvatar(
 ),
 ```
 
-## Author
-Developed by **Shahzain Baloch**.
+## Demo 
+Check out the `example/` folder for a fully working demonstration of the package.
+
+## License 
+This project is licensed under the MIT License - see the LICENSE file for details. Copyright (c) 2026 BalochCodes.
+
+## Author 
+Developed By Shahzain Baloch

@@ -2,6 +2,8 @@ name: initials_avatar_builder
 description: "A customizable Flutter widget that automatically generates beautiful circle avatars with user initials and dynamic background colors."
 version: 0.0.1
 homepage: https://github.com/ShahzainBaloch/initials_avatar_builder
+repository: https://github.com/ShahzainBaloch/initials_avatar_builder
+issue_tracker: https://github.com/ShahzainBaloch/initials_avatar_builder/issues
 
 environment:
   sdk: ^3.11.0
